@@ -11,9 +11,10 @@ My name is Taufiq, and I am a second-year Ph.D. student in Computer Science at [
 
 I earned my B.S. in Computer Science from [Institut Teknologi Bandung](https://itb.ac.id/), where I also participated in a remote research collaboration with [Prof. Derry Wijaya](https://derrywijaya.github.io/) from [Boston University](https://www.bu.edu/cs/profiles/derry-wijaya/), focusing on natural language processing (NLP).
 
-Before pursuing my Ph.D., I worked as a full-time Software Engineer at [Shopee](https://shopee.com/), focusing on backend engineering. Prior to that, I also interned at Traveloka, Blibli, Pinhome, and Xtremax.
+Before pursuing my Ph.D., I worked as a full-time Software Engineer at [Shopee](https://shopee.com/), focusing on backend engineering. 
 
-Currently, I am seeking internship opportunities in HCI Research, Software Engineering, or Machine Learning Engineering. I am open to new opportunities!
+Currently, I am seeking internship opportunities in HCI Research, Software Engineering, or Machine Learning Engineering. 
+I am open to new opportunities!
 
 Publications
 ======
