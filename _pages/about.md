@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Taufiq, and I am a second-year Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/) advised by [Dr. Eugenia Rho](https://eugeniarho.com/). My research area is in Human-Computer Interaction (HCI), where I focus on developing human-centered AI systems to prepare students for computing careers. Aside from this, I also have experience in Software Engineering and Natural Language Processing.
+My name is Taufiq, and I am a second-year grad student student in Computer Science at [Virginia Tech](https://cs.vt.edu/) advised by [Dr. Eugenia Rho](https://eugeniarho.com/). My research area is in Human-Computer Interaction (HCI), where I focus on developing human-centered AI systems to prepare students for computing careers and exploring future work with AI in software engineering. Aside from this, I also have experience in Software Engineering and Natural Language Processing.
 
 I earned my B.S. in Computer Science from [Institut Teknologi Bandung](https://itb.ac.id/), where I also participated in a remote research collaboration with [Prof. Derry Wijaya](https://derrywijaya.github.io/) from [Boston University](https://www.bu.edu/cs/profiles/derry-wijaya/), focusing on natural language processing (NLP).
 
